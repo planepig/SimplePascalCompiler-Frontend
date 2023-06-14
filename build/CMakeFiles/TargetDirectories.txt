@@ -1,3 +1,0 @@
-D:/CodeStudy/compiler/build/CMakeFiles/compiler.dir
-D:/CodeStudy/compiler/build/CMakeFiles/edit_cache.dir
-D:/CodeStudy/compiler/build/CMakeFiles/rebuild_cache.dir
